@@ -19,7 +19,9 @@
 - ✅ SQL (Microsoft SQL Server)  
 - ✅ Flutter & Dart  
 - ✅ Git & GitHub  
-- ✅ Firebase Basics  
+- ✅ Firebase Basics
+- ✅ State Management (Cubit & Bloc)  
+- ✅ REST API Integration
 
 <h2 align="left">I code with</h2>
 
