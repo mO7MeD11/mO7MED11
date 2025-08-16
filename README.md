@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="left">Hey 👋, I'm Mohamed Hatem</h1>
 
-<!--
-**mO7MeD11/mO7MED11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">I'm a 4th-year Information Systems student at Mansoura University 🎓<br>💻 Flutter Developer in progress 🚀</p>
 
-Here are some ideas to get you started:
+<h2 align="left">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+📚 I started with programming fundamentals using C# <br>
+📚 I'm currently learning Flutter <br>
+🎯 Goals: Become a Mobile App Developer <br>
+🎲 Fun fact: I enjoy solving problems more than creating them 😅
+</p>
+
+<h2 align="left">Skills</h2>
+
+- ✅ Data Structures  
+- ✅ Object-Oriented Programming (OOP)  
+- ✅ SQL (Microsoft SQL Server)  
+- ✅ Flutter & Dart  
+- ✅ Git & GitHub  
+- ✅ Firebase Basics  
+
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql logo" />
+</div>
+
+<h2 align="left">Connect with me</h2>
+
+<p align="left">
+  <a href="https://github.com/mO7MeD11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mohm77778727@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
