@@ -1,6 +1,7 @@
 <h1 align="left">Hey 👋, I'm Mohamed Hatem</h1>
 
-<p align="left">I'm a 4th-year Information Systems student at Mansoura University 🎓<br>💻 Flutter Developer in progress 🚀</p>
+<p align="left">I'm a 4th-year Computer Science student (Information Systems Department) at Mansoura University 🎓
+<br>💻 Flutter Developer in progress 🚀</p>
 
 <h2 align="left">About me</h2>
 
