@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, I'm Mohamed Hatem</h1>
+<h1 align="left">Hey 👋, I'm Mohamed</h1>
 
 <p align="left">I'm a 4th-year Computer Science student (Information Systems Department) at Mansoura University 🎓
 <br>💻 Flutter Developer in progress 🚀</p>
